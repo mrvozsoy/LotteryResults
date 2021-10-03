@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SayisalLoto.API", "SayisalLoto.API\SayisalLoto.API.csproj", "{A3446F4D-A249-4E4F-A6DA-9F26AB3AF23D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3446F4D-A249-4E4F-A6DA-9F26AB3AF23D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3446F4D-A249-4E4F-A6DA-9F26AB3AF23D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3446F4D-A249-4E4F-A6DA-9F26AB3AF23D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3446F4D-A249-4E4F-A6DA-9F26AB3AF23D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06C6F7F3-DA31-4C21-895F-74392FE554A1}
+	EndGlobalSection
+EndGlobal
